@@ -4,7 +4,7 @@
     <title>FirstWebpage!</title>
     <style>
         h1 {
-            color: red;
+            color: green;
             margin-left: 90px;
         }
         
@@ -21,15 +21,16 @@
 </head>
 
 <body>
-    <h2>My Favorite Dogs</h2>
-
+    <h2>The Top Number One Most Extravagent Top-Notch Doggos</h2>
     <h1>
-<ul>
-  <li>Golden Lab</li>
-  <li>Golden Retriever</li>
-</ul></h1>
+        <ul>
+        <li>Rat Terrier</li>
+        <li>Chiweenie</li>
+        </ul>
+    </h1>
 
-    <img src="dog2.jpg">
+    <img src="Seamus.jpg" width = "400" height = "400" alt = "What">
+    <img src="Koda.png" width = "400" height = "400" alt = "What">
 
 </body>
 </html>
