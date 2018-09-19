@@ -13,24 +13,39 @@
             background-color: black;
         }
         
+        h3 {
+            color: blue;
+            background-color: gray;
+        }
+        
         img {
             padding: 6px;
             border: 4px solid #0000ff;
         }
     </style>
+    <div class = "Mistake"> Ate a scorpion. 9/10, too ruff. </div>
 </head>
 
 <body>
     <h2>The Top Number One Most Extravagent Top-Notch Doggos</h2>
+    <h3>When I am with these selected few doggos, we become an absolute UNIT.</h3>
     <h1>
         <ul>
         <li>Rat Terrier</li>
         <li>Chiweenie</li>
+        <li>Shiba Inu</li>
         </ul>
     </h1>
 
     <img src="Seamus.jpg" width = "400" height = "400" alt = "What">
     <img src="Koda.png" width = "400" height = "400" alt = "What">
+    <img src="Swoll Doggo.jpg" width = "400" height = "400" alt = "What">
+    
+    .Mistake {
+        position: absolute;
+        botom: 50%;
+        right: 50%;
+    }
 
 </body>
 </html>
